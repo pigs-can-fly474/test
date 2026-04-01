@@ -1,0 +1,19 @@
+.titleHeader {
+  color: black;
+  text-align: center;
+  font-family: trebuchet ms, verdana, arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.paragraph {
+  color: black;
+  text-align: center;
+  font-family: trebuchet ms, verdana, arial, sans-serif;
+  font-size: 20px;
+}
+
+.image {
+  width: 2000px;
+  height: 200px;
+}
